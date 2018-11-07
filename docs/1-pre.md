@@ -4,9 +4,9 @@
 
 | 系统类型 | IP地址 | 节点角色 | CPU | Memory | Hostname |
 | :------: | :--------: | :-------: | :-----: | :---------: | :-----: |
-| ubuntu16.04 | 192.168.1.101 | worker |   1    | 2G | server01 |
-| ubuntu16.04 | 192.168.1.102 | master |   1    | 2G | server02 |
-| ubuntu16.04 | 192.168.1.103 | worker |   1    | 2G | server03 |
+| Centos7 | 192.168.1.101 | worker |   1    | 2G | server01 |
+| Centos7 | 192.168.1.102 | master |   1    | 2G | server02 |
+| Centos7 | 192.168.1.103 | worker |   1    | 2G | server03 |
 
 > 使用centos的同学也可以参考此文档，需要注意替换系统命令即可
 
